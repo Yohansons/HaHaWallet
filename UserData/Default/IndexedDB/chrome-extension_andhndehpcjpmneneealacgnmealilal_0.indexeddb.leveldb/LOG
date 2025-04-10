@@ -1,0 +1,14 @@
+2025/04/04-02:16:42.758 1460 Reusing MANIFEST C:\_IDE\_CURSOR\HaHa_walet\UserData\Default\IndexedDB\chrome-extension_andhndehpcjpmneneealacgnmealilal_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/04-02:16:42.758 1460 Recovering log #37
+2025/04/04-02:16:42.759 1460 Reusing old log C:\_IDE\_CURSOR\HaHa_walet\UserData\Default\IndexedDB\chrome-extension_andhndehpcjpmneneealacgnmealilal_0.indexeddb.leveldb/000037.log 
+2025/04/04-02:16:42.760 1460 Delete type=2 #35
+2025/04/04-02:16:42.815 1958 Level-0 table #42: started
+2025/04/04-02:16:42.818 1958 Level-0 table #42: 9290 bytes OK
+2025/04/04-02:16:42.821 1958 Delete type=0 #37
+2025/04/04-02:16:42.822 1460 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 2597 : 1
+2025/04/04-02:16:42.822 1460 Compacting 1@0 + 1@1 files
+2025/04/04-02:16:42.826 1460 Generated table #43@0: 362 keys, 17765 bytes
+2025/04/04-02:16:42.826 1460 Compacted 1@0 + 1@1 files => 17765 bytes
+2025/04/04-02:16:42.828 1460 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/04-02:16:42.829 1460 Delete type=2 #42
+2025/04/04-02:16:42.829 1460 Manual compaction at level-0 from '\x00\x0e\x00\x00\x05' @ 2597 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
